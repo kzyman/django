@@ -15,7 +15,7 @@ $(function(){
                // alert($(this).text())
                 var text =$(this).text().replace(query,'<strong>'+query+'</strong>')
                 $(this).html(text)
-
+//asfgaasfsaf
             });
             //alert(cat.children()[0].find(".search-items").text())
             //sda
